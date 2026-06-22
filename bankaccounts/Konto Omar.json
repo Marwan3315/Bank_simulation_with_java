@@ -1,0 +1,22 @@
+[
+  {
+    "CLASSNAME": "Payment",
+    "INSTANCE": {
+      "date": "12.12.2025",
+      "amount": 450.0,
+      "description": "Bread",
+      "incominginterest": 0.1,
+      "outgoinginterest": 0.15
+    }
+  },
+  {
+    "CLASSNAME": "IncomingTransfer",
+    "INSTANCE": {
+      "date": "20.10.2025",
+      "amount": 100.0,
+      "description": "alo men miro",
+      "sender": "Miro",
+      "recipient": "Omar"
+    }
+  }
+]

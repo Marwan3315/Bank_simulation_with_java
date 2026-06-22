@@ -1,0 +1,12 @@
+[
+  {
+    "CLASSNAME": "Payment",
+    "INSTANCE": {
+      "date": "10.10.2025",
+      "amount": 90.0,
+      "description": "sduhfunc",
+      "incominginterest": 0.1,
+      "outgoinginterest": 0.15
+    }
+  }
+]

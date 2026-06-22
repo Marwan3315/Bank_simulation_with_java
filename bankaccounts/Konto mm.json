@@ -1,0 +1,62 @@
+[
+  {
+    "CLASSNAME": "Payment",
+    "INSTANCE": {
+      "date": "12.12.2025",
+      "amount": 180.0,
+      "description": "saac",
+      "incominginterest": 0.1,
+      "outgoinginterest": 0.15
+    }
+  },
+  {
+    "CLASSNAME": "OutgoingTransfer",
+    "INSTANCE": {
+      "date": "31.12.2025",
+      "amount": 50.0,
+      "description": "ajsndc",
+      "sender": "mm",
+      "recipient": "alooo"
+    }
+  },
+  {
+    "CLASSNAME": "OutgoingTransfer",
+    "INSTANCE": {
+      "date": "10.10.2025",
+      "amount": 40.0,
+      "description": "asldkx",
+      "sender": "mm",
+      "recipient": "alooo"
+    }
+  },
+  {
+    "CLASSNAME": "Payment",
+    "INSTANCE": {
+      "date": "12.12.2025",
+      "amount": 90.0,
+      "description": "asjfn",
+      "incominginterest": 0.1,
+      "outgoinginterest": 0.15
+    }
+  },
+  {
+    "CLASSNAME": "Payment",
+    "INSTANCE": {
+      "date": "20.12.2025",
+      "amount": 180.0,
+      "description": "asidfnxc",
+      "incominginterest": 0.1,
+      "outgoinginterest": 0.15
+    }
+  },
+  {
+    "CLASSNAME": "OutgoingTransfer",
+    "INSTANCE": {
+      "date": "20.12.2025",
+      "amount": 100.0,
+      "description": "asjdncn",
+      "sender": "mm",
+      "recipient": "ay /ad"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "CLASSNAME": "Payment",
+    "INSTANCE": {
+      "date": "31.11.2025",
+      "amount": 360.0,
+      "description": "Zahlung vom Laptop",
+      "incominginterest": 0.1,
+      "outgoinginterest": 0.0
+    }
+  },
+  {
+    "CLASSNAME": "IncomingTransfer",
+    "INSTANCE": {
+      "date": "15.11.2025",
+      "amount": 50.0,
+      "description": "Überweisung fürs Hotel",
+      "sender": "lala",
+      "recipient": "Miro"
+    }
+  }
+]

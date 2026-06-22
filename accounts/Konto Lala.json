@@ -1,0 +1,42 @@
+[
+  {
+    "CLASSNAME": "Payment",
+    "INSTANCE": {
+      "date": "21.12.2025",
+      "amount": 140.0,
+      "description": "Amsterdam accommodation",
+      "incominginterest": 0.3,
+      "outgoinginterest": 0.4
+    }
+  },
+  {
+    "CLASSNAME": "OutgoingTransfer",
+    "INSTANCE": {
+      "date": "22.12.2025",
+      "amount": 100.0,
+      "description": "Transfer for the accommodation",
+      "sender": "Lala",
+      "recipient": "Miro"
+    }
+  },
+  {
+    "CLASSNAME": "Payment",
+    "INSTANCE": {
+      "date": "25.11.2025",
+      "amount": 50.0,
+      "description": "Payment for the train travel",
+      "incominginterest": 0.0,
+      "outgoinginterest": 0.4
+    }
+  },
+  {
+    "CLASSNAME": "IncomingTransfer",
+    "INSTANCE": {
+      "date": "25.12.2025",
+      "amount": 100.0,
+      "description": "ausgeliehne Geld zurück",
+      "sender": "Miro",
+      "recipient": "lala"
+    }
+  }
+]
